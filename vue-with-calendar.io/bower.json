@@ -1,0 +1,24 @@
+{
+  "name": "vue-with-calendar.io",
+  "homepage": "https://github.com/Paul0716/Mini-Testing-Project",
+  "authors": [
+    "paultaku <justlove0714@gmail.com>"
+  ],
+  "description": "vueJS work with fullcalendar.io testing",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "lib/"
+  ],
+  "dependencies": {
+    "fullcalendar": "^3.1.0",
+    "vue-fullcalendar": "Wanderxx/vue-fullcalendar#^1.0.9",
+    "vue": "^2.1.10"
+  }
+}
